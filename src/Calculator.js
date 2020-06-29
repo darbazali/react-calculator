@@ -12,7 +12,7 @@ export default class Calculator extends Component {
     }
 
     handleNumbers(event) {
-        const value = event.target.value;
+        const value = event.target.va;
         console.log(value);
         
     }
