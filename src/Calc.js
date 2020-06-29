@@ -12,6 +12,8 @@ const isOperator = /[x/+‑]/,
     bottom: 5
   };
 
+  
+
 // COMPONENTS:
 export default class iCalc extends React.Component {
   constructor(props) {

@@ -52,17 +52,17 @@
     color: white;
     outline: 1px solid black;
     border: none;
-    background: $button;
+    background: #47476b;
     font-family: Share Tech Mono, monospace;
     font-size: 20px;
     cursor: default;
-    &:hover {
-      color: black;
-      outline: .05em solid grey;
-      z-index: 3;
-    }
+    
   }
-  
+  button:hover {
+    color: black;
+    outline: .05em solid grey;
+    z-index: 3;
+  }
   .jumbo {
     width: 160px;
   }
